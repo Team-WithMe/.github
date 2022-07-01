@@ -8,8 +8,6 @@
 
 ---
 
-<br />
-
 ## Links
 
 - <a href="https://www.figma.com/file/42oPhgzXasXtpsexGAaFJO/WithMe!?node-id=0%3A1">WithMe 디자인 링크</a>
