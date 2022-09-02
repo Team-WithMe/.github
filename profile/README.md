@@ -10,7 +10,7 @@
 
 ## 🗄 Links
 
-- <a href="https://www.figma.com/file/42oPhgzXasXtpsexGAaFJO/WithMe!?node-id=0%3A1">WithMe 디자인 링크</a>
+- <a href="https://www.figma.com/file/42oPhgzXasXtpsexGAaFJO/WithMe!?node-id=0%3A1">WithMe 디자인 링크 ()</a>
 - <a href="https://www.npmjs.com/package/@with-me/design">WithMe 디자인 시스템 npm</a>
 - <a href="https://with-me-ui.netlify.app/">WithMe 스토리북 디자인 시스템 가이드</a>
 
